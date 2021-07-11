@@ -25,9 +25,7 @@ namespace _06.СпециалниЧисла
                                 Console.Write($"{i}{j}{l}{m} ");
                             }
                         }
-
                     }
-
                 }
             }
         }
